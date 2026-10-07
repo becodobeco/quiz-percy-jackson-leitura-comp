@@ -1,0 +1,9 @@
+.share-section{width:min(1120px,100%);margin:23px auto 0;padding:138px clamp(38px,7vw,88px) 108px;text-align:center;background:#f2e5c9;color:var(--ink);border:1px solid transparent;border-image-source:url('assets/parchment.png');border-image-slice:140 78 140 78 fill;border-image-width:116px 65px;border-image-repeat:stretch;box-shadow:0 18px 42px #0007}
+.share-eyebrow{color:var(--theme-dark);margin-bottom:10px}
+.share-title{font-size:clamp(30px,4vw,42px);margin:0 0 11px}
+.share-intro{font-family:'Source Serif 4',Georgia,serif;font-size:18px;line-height:1.45;max-width:650px;margin:0 auto 25px}
+.share-preview{display:block;width:min(270px,100%);height:auto;aspect-ratio:9/16;object-fit:contain;margin:0 auto 25px;background:var(--theme-dark);border:3px solid var(--theme-accent);box-shadow:0 9px 22px #0006}
+.share-actions{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:11px}
+.share-actions button{max-width:100%}
+.share-status{min-height:22px;margin:17px auto 0;font-size:14px;color:var(--theme-dark)}
+@media(max-width:520px){.share-section{padding:104px 27px 82px;border-image-width:clamp(48px,13.67vw,96px) clamp(26px,7.62vw,54px)}.share-actions{flex-direction:column}.share-actions button{width:min(290px,100%)}}
