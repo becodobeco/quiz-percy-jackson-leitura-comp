@@ -1,0 +1,290 @@
+[
+  {
+    "god": "zeus",
+    "kind": "main",
+    "isbn": "9788576573135",
+    "title": "Duna",
+    "source": "https://covers.openlibrary.org/b/isbn/9788576573135-L.jpg?default=false",
+    "width": 348,
+    "height": 500
+  },
+  {
+    "god": "zeus",
+    "kind": "young",
+    "isbn": "9786555114744",
+    "title": "O Leão, a Feiticeira e o Guarda-Roupa",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/6555114746.01.LZZZZZZZ.jpg",
+    "width": 500,
+    "height": 500
+  },
+  {
+    "god": "poseidon",
+    "kind": "main",
+    "isbn": "9786555871784",
+    "title": "Tudo é Rio",
+    "source": "https://covers.openlibrary.org/b/isbn/9786555871784-L.jpg?default=false",
+    "width": 337,
+    "height": 500
+  },
+  {
+    "god": "poseidon",
+    "kind": "young",
+    "isbn": "9786587724287",
+    "title": "A Ilha do Tesouro",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/6587724280.01.LZZZZZZZ.jpg",
+    "width": 343,
+    "height": 500
+  },
+  {
+    "god": "demeter",
+    "kind": "main",
+    "isbn": "9786580309313",
+    "title": "Torto arado",
+    "source": "https://covers.openlibrary.org/b/isbn/9786580309313-L.jpg?default=false",
+    "width": 329,
+    "height": 500
+  },
+  {
+    "god": "demeter",
+    "kind": "young",
+    "isbn": "9788538092667",
+    "title": "Anne de Green Gables",
+    "source": "https://covers.openlibrary.org/b/isbn/9788538092667-L.jpg?default=false",
+    "width": 348,
+    "height": 500
+  },
+  {
+    "god": "ares",
+    "kind": "main",
+    "isbn": "9786555321449",
+    "title": "Jogos Vorazes",
+    "source": "https://covers.openlibrary.org/b/isbn/9786555321449-L.jpg?default=false",
+    "width": 339,
+    "height": 500
+  },
+  {
+    "god": "ares",
+    "kind": "young",
+    "isbn": "9788598078717",
+    "title": "Como Treinar o Seu Dragão",
+    "source": "https://covers.openlibrary.org/b/isbn/9788598078717-L.jpg?default=false",
+    "width": 317,
+    "height": 475
+  },
+  {
+    "god": "athena",
+    "kind": "main",
+    "isbn": "9786555604900",
+    "title": "Manual de assassinato para boas garotas",
+    "source": "https://covers.openlibrary.org/b/isbn/9786555604900-L.jpg?default=false",
+    "width": 500,
+    "height": 500
+  },
+  {
+    "god": "athena",
+    "kind": "young",
+    "isbn": "9788516095765",
+    "title": "A Droga da Obediência",
+    "source": "https://covers.openlibrary.org/b/isbn/9788516095765-L.jpg?default=false",
+    "width": 336,
+    "height": 500
+  },
+  {
+    "god": "apollo",
+    "kind": "main",
+    "isbn": "9786555322873",
+    "title": "Amanhã, amanhã, e ainda outro amanhã",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/655532287X.01.LZZZZZZZ.jpg",
+    "width": 348,
+    "height": 500
+  },
+  {
+    "god": "apollo",
+    "kind": "young",
+    "isbn": "9788576752035",
+    "title": "A invenção de Hugo Cabret",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/8576752034.01.LZZZZZZZ.jpg",
+    "width": 333,
+    "height": 500
+  },
+  {
+    "god": "hephaestus",
+    "kind": "main",
+    "isbn": "9786555526240",
+    "title": "O menino que descobriu o vento",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/6555526246.01.LZZZZZZZ.jpg",
+    "width": 343,
+    "height": 500
+  },
+  {
+    "god": "aphrodite",
+    "kind": "main",
+    "isbn": "9786587235240",
+    "title": "Tudo sobre o amor",
+    "source": "https://editoraelefante.com.br/wp-content/uploads/2024/01/63-Tudo-sobre-o-amor_capa_1.png",
+    "width": 1200,
+    "height": 1200
+  },
+  {
+    "god": "aphrodite",
+    "kind": "young",
+    "isbn": "9788595081512",
+    "title": "O Pequeno Príncipe",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/8595081514.01.LZZZZZZZ.jpg",
+    "width": 337,
+    "height": 500
+  },
+  {
+    "god": "hermes",
+    "kind": "main",
+    "isbn": "9788595084742",
+    "title": "O Hobbit",
+    "source": "https://covers.openlibrary.org/b/isbn/9788595084742-L.jpg?default=false",
+    "width": 321,
+    "height": 500
+  },
+  {
+    "god": "dionysus",
+    "kind": "main",
+    "isbn": "9788584391400",
+    "title": "Daisy Jones & The Six",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/8584391401.01.LZZZZZZZ.jpg",
+    "width": 348,
+    "height": 500
+  },
+  {
+    "god": "dionysus",
+    "kind": "young",
+    "isbn": "9788582351673",
+    "title": "A Escola do Bem e do Mal",
+    "source": "https://covers.openlibrary.org/b/isbn/9788582351673-L.jpg?default=false",
+    "width": 352,
+    "height": 500
+  },
+  {
+    "god": "hades",
+    "kind": "main",
+    "isbn": "9786555602302",
+    "title": "Água fresca para as flores",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/6555602309.01.LZZZZZZZ.jpg",
+    "width": 500,
+    "height": 500
+  },
+  {
+    "god": "hades",
+    "kind": "young",
+    "isbn": "9786555872057",
+    "title": "A Cidade dos Fantasmas",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/6555872055.01.LZZZZZZZ.jpg",
+    "width": 337,
+    "height": 500
+  },
+  {
+    "god": "iris",
+    "kind": "main",
+    "isbn": "9788530602017",
+    "title": "A Correspondente",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/8530602013.01.LZZZZZZZ.jpg",
+    "width": 348,
+    "height": 500
+  },
+  {
+    "god": "iris",
+    "kind": "young",
+    "isbn": "9788580573015",
+    "title": "Extraordinário",
+    "source": "https://covers.openlibrary.org/b/isbn/9788580573015-L.jpg?default=false",
+    "width": 348,
+    "height": 500
+  },
+  {
+    "god": "hypnos",
+    "kind": "main",
+    "isbn": "9788573263350",
+    "title": "Noites Brancas",
+    "source": "https://covers.openlibrary.org/b/isbn/9788573263350-L.jpg?default=false",
+    "width": 336,
+    "height": 500
+  },
+  {
+    "god": "hypnos",
+    "kind": "young",
+    "isbn": "9786554850216",
+    "title": "Alice no País do Espelho",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/655485021X.01.LZZZZZZZ.jpg",
+    "width": 410,
+    "height": 500
+  },
+  {
+    "god": "nemesis",
+    "kind": "main",
+    "isbn": "9788525057013",
+    "title": "E não sobrou nenhum",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/8525057010.01.LZZZZZZZ.jpg",
+    "width": 532,
+    "height": 800
+  },
+  {
+    "god": "nemesis",
+    "kind": "young",
+    "isbn": "9786584824027",
+    "title": "Matilda",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/6584824020.01.LZZZZZZZ.jpg",
+    "width": 329,
+    "height": 500
+  },
+  {
+    "god": "nike",
+    "kind": "main",
+    "isbn": "9788584392230",
+    "title": "Carrie Soto Está de Volta",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/8584392238.01.LZZZZZZZ.jpg",
+    "width": 348,
+    "height": 500
+  },
+  {
+    "god": "nike",
+    "kind": "young",
+    "isbn": "9788579804656",
+    "title": "Nevermoor",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/8579804655.01.LZZZZZZZ.jpg",
+    "width": 348,
+    "height": 500
+  },
+  {
+    "god": "hebe",
+    "kind": "main",
+    "isbn": "9786587817750",
+    "title": "O jardim secreto",
+    "source": "https://covers.openlibrary.org/b/isbn/9786587817750-L.jpg?default=false",
+    "width": 346,
+    "height": 500
+  },
+  {
+    "god": "tyche",
+    "kind": "main",
+    "isbn": "9788584390670",
+    "title": "O Alquimista",
+    "source": "https://covers.openlibrary.org/b/isbn/9788584390670-L.jpg?default=false",
+    "width": 331,
+    "height": 500
+  },
+  {
+    "god": "hecate",
+    "kind": "main",
+    "isbn": "9788551006757",
+    "title": "Coraline",
+    "source": "https://covers.openlibrary.org/b/isbn/9788551006757-L.jpg?default=false",
+    "width": 321,
+    "height": 500
+  },
+  {
+    "god": "hecate",
+    "kind": "young",
+    "isbn": "9788501110077",
+    "title": "A garota que bebeu a lua",
+    "source": "https://images-na.ssl-images-amazon.com/images/P/8501110078.01.LZZZZZZZ.jpg",
+    "width": 337,
+    "height": 500
+  }
+]
